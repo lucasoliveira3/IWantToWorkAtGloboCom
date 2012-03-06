@@ -1,69 +1,6 @@
 Vaga
 ====
 
-Home da Globo.com
 
 CV
 ==
-
-<b>Lucas de Oliveira Reis</b><br/>
-Brasileiro, Solteiro, 20 anos<br/>
-Rua 24 de Maio, 161 , Casa 02<br/>
-Rocha – Rio de Janeiro – RJ <br/>
-Telefone: (21) 2241-4585 / E-mail: lucasreis3000@gmail.com<br/>
-Celular: (21) 8723-3087<br/><br/>
-
-<b>OBJETIVO:</b><br/>
--Adquirir conhecimento e experiência, naquilo que amo.<br/>
--Trabalhar na área de Informática relacionada ao desenvolvimento de projetos web.<br/>
--Desenvolvimento de Web Sites.<br/><br/>
-
-<b>FORMAÇÃO:</b><br/>
--Ensino Médio Completo.<br/><br/>
-
--SENAI - Artes Gráficas<br/>
-Curso: Técnico em Tecnologia da Informação(Software)<br/>
-Local: Rio de Janeiro   País: Brasil<br/>
-Início: 10/2009    Término: 11/2011<br/>
-Status: Concluído  Duração: 4 módulos de 6 meses cada.<br/>
-Turno: Noite<br/><br/>
-
--Curso de Montagem e Manutenção – SENAI – Artes Gráficas<br/>
-Status: Completo            Duração: 2 meses<br/><br/>
-
--3º Lugar nas Olímpiadas do Conhecimento do SENAI-RJ na modalidade de Web Design (Etapa Escolar)<br/><br/>
-
-<b>CONHECIMENTOS:</b><br/>
--WEB: HTML, CSS, Flash Básico.<br/>
--BANCO DE DADOS: MySQL.<br/>
--LINGUAGENS: Java, PHP e Javascript.<br/><br/>
-
-<b>EXPERIÊNCIA PROFISSIONAL:</b><br/>
--Prestando Serviços para a Empresa Somar Comunicação – Responsável por participar da criação e manutenção de Web<br/> Sites nos Projetos:<br/>
-http://www.somarcomunicacao.com.br/clubmix/<br/>
-http://www.inovawebsites.com.br/<br/>
-http://www.rjemprestimosconsignados.com.br/<br/>
-http://www.lcnmistercolibri.com.br/<br/><br/>
-
--Estagiário na empresa AD5 (Atual Emprego) – Responsável por participar da criação e manutenção de Web Sites em Wordpress, PHP e Joomla.<br/>
-Sites dos Projetos:<br/>
-http://www.tvcrc.com.br/<br/>
-http://www.ead24h.com.br/<br/>
-http://www.tvcrcsc.com.br/<br/><br/>
-
--Trabalhos como freelancer<br/>
-  Vivianario<br/>
-  http://www.vivianario.com/<br/>
-  Objetivo: Responsável pela programação (PHP) da parte de produtos do site. Fazendo a integração com o Banco de dados.<br/><br/>
-  
-<b>QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS:</b><br/>
--Técnico em TI (SENAI – Artes Gráficas, concluiu em 2011).<br/>
--Conhecimento Básico em Microsoft Office.<br/>
--Conhecimento Intermediário em Inglês Técnico.<br/>
--Conhecimento Intermediário em Espanhol.<br/>
--Conhecimento Geral em Informática.<br/><br/>
-
-<b>INFORMAÇÕES ADICIONAIS:</b><br/>
--Interesse continúo em tudo relacionado a programação.<br/>
--Facilidade de aprendizado.<br/>
--Carteira de Habilitação categoria B.<br/>
